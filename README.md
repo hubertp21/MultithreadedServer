@@ -46,7 +46,7 @@ telnet localhost 7777
 ```
 or
 ```sh
-nc localhost 8080
+nc localhost 7777
 ```
 
 ### Project Structure
